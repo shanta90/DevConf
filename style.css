@@ -21,6 +21,7 @@ a {
   border-radius: 8px;
   font-weight: bold;
   font-size: 14px;
+
 }
 
 .btn-blue {
@@ -68,8 +69,8 @@ a {
 }
 
 .nav-logo {
-  width: 34px;
-  height: 34px;
+  width: 130px;
+  height: 50px;
 }
 
 .nav-brand {
@@ -91,7 +92,7 @@ a {
 /* Hero */
 .hero {
   position: relative;
-  height: 430px;
+  height: 480px;
   background: url("./assets/banner.jpg") center/cover no-repeat;
   color: #ffffff;
 }
@@ -123,10 +124,10 @@ a {
 }
 
 .hero-content p {
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 20px;
+  line-height: 1.2;
   color: #d1d5db;
-  margin-bottom: 28px;
+  margin-bottom: 100px;
 }
 
 /* Section titles */
